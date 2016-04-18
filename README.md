@@ -4,3 +4,9 @@
 纯C++开发，基于Poco框架，高性能、多线程
 
 目标单一：纯静态资源服务器
+
+# 依赖
+* PocoUtil 
+* PocoNet 
+* PocoFoundation
+
