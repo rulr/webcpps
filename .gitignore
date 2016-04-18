@@ -27,6 +27,6 @@
 *.out
 *.app
 
-/nbprojest/
+/nbproject/
 
 /webcpps
