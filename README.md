@@ -1,7 +1,7 @@
 # webcpps
 基于C++ Poco框架的HTTP静态服务器
 
-fork 过来 以后也许会通道~   
+fork 过来 以后也许会用到~   
 
 纯C++开发，基于Poco框架，高性能、多线程
 
