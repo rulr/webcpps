@@ -1,9 +1,9 @@
 PRO=$(shell basename `realpath .`)
 all:
-	cd src && make && cd ..
+	cd src && make
 
 clean:
-	cd src && make clean && cd ..
+	cd src && make clean
 
 run:
 	./$(PRO) --daemon
