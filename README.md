@@ -6,8 +6,11 @@
 目标单一：纯静态资源服务器
 
 编译：make
+
 清理：make clean
+
 运行：make run
+
 停止：make stop
 
 # 依赖
